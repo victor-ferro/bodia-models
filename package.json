@@ -1,0 +1,20 @@
+{
+  "name": "bodia-models",
+  "version": "1.0.0",
+  "description": "images to train models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor-ferro/bodia-models.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victor-ferro/bodia-models/issues"
+  },
+  "homepage": "https://github.com/victor-ferro/bodia-models#readme"
+}
